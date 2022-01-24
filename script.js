@@ -21,4 +21,4 @@ setInterval(()=>{
     sElement.style.transform = `rotate(${sgrau}deg)`;
     mElement.style.transform = `rotate(${mgrau}deg)`;
     hElement.style.transform = `rotate(${hgrau}deg)`;
-}, 1000)
+}, 1000);
